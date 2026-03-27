@@ -1,1 +1,6 @@
-
+user,timestamp,access_level,hour,day_of_week,outside_business_hours,weekend_access,high_privilege,risk_flag
+admin,2026-03-20 02:15:00,high,2,Friday,True,False,True,True
+maria,2026-03-21 22:45:00,medium,22,Saturday,True,True,False,True
+admin,2026-03-22 14:00:00,high,14,Sunday,False,True,True,True
+paul,2026-03-23 03:10:00,low,3,Monday,True,False,False,True
+admin,2026-03-24 23:59:00,high,23,Tuesday,True,False,True,True
