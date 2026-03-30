@@ -13,8 +13,8 @@ Technologies:
 - Python
 - Pandas
 
-Use Case: 
+Use Case:
 This project simulates a real-world IT audit scenario where access logs are analyzed to identify anomalies and potential security risks.
 
-Output: 
+Output:
 A CSV file containing flagged records for further audit investigation.
